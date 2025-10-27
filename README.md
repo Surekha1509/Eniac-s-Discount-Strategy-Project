@@ -1,6 +1,6 @@
 # Eniac's_Discount_Strategy_Project(WBS Berlin) 
 
-Date :27.10.2025
+Date :  27.10.2025
 
 Team Work by https://github.com/afol and https://github.com/rudrapra084
 
