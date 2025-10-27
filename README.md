@@ -12,12 +12,15 @@ Final project PPT --> https://docs.google.com/presentation/d/149s6PaCtws4OgAmovA
 
 
 Project Overview
+
 The study focuses on understanding how monthly revenue and the average discount rate influenced sales performance during 2017–2018. Additionally, it explores the relationship between discounts, seasonal shifts, special events, product categories, and various pricing and quantity dynamics.
 
 Objective
+
 The primary goal is to assess the impact of Eniac's discounting strategy on sales performance, product categorization, and seasonal variations. Insights from this analysis aim to guide optimization of discount distribution across product categories and months.
 
 Data Source
+
 The dataset was sourced from Eniac's discount database for the period 2017–2018. Rigorous data cleaning was performed to address issues including a corrupted database, incongruent or duplicate data, irregular numeric formats (e.g., double-dot numbers), and general data quality concerns.
 
 Tools Used
@@ -29,6 +32,7 @@ Pandas for data manipulation and cleaning
 Seaborn for statistical visualization
 
 Data Cleaning Process
+
 The dataset underwent a thorough cleaning process to ensure data integrity:
 
 Corrupted Database: Identified and resolved database issues affecting integrity.
