@@ -1,10 +1,11 @@
 Eniac's_discount_Strategy_Project
 
-This project analyzes the discount strategy applied by ENIAC between January 2017 and March 2018. After cleaning the data and classifying the products sold by ENIAC, we recommend that the company continue offering discounts in the range of 15% to 25%. Additionally, we suggest applying significantly higher discounts on expensive products during special occasions, such as Black Friday and the Christmas holidays, to further boost revenue
+This project analyzes the discount strategy applied by ENIAC between January 2017 and March 2018. After cleaning the data and classifying the products sold by ENIAC,  Additionally, it explores the relationship between discounts, seasonal shifts, special events, product categories, and various pricing and quantity dynamics.
 
-Data Sceince Bootcamp WBS Coding Berlin 
+The worked materials provided by Data Sceince Bootcamp WBS Coding Berlin 
 
 on date : 27-10.2025
+
 Team work by https://github.com/afol and https://github.com/rudrapra084
 
 Final Project PPT : https://docs.google.com/presentation/d/149s6PaCtws4OgAmovATNkznon7Jc5itWTVfBsU-4CaU/edit?usp=drive_link
