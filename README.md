@@ -1,7 +1,7 @@
-# Eniac's_Discount_Strategy_Project(WBS Berlin) 
-This project analyzes the discount strategy applied by ENIAC between January 2017 and March 2018. After cleaning Data and classifying the products sold by ENIAC, we encourage ENIAC to keep on having discounts between 15% and 25% and have very high discounts for expensive products in particular occasions like black Friday and Christmas Holidays to boost the revenue.
-
-Date :  27.10.2025
+# Eniac's_Discount_Strategy_Project
+This project analyzes the discount strategy applied by ENIAC between January 2017 and March 2018. After cleaning the data and classifying the products sold by ENIAC, we recommend that the company continue offering discounts in the range of 15% to 25%. Additionally, we suggest applying significantly higher discounts on expensive products during special occasions, such as Black Friday and the Christmas holidays, to further boost revenue
+Date :  27.10.2025 
+Bootcamp : Data science WBS Coding Berlin
 
 Team Work by https://github.com/afol and https://github.com/rudrapra084
 
@@ -43,22 +43,8 @@ promo_price – promotional price, in euros
 in_stock – whether or not the product was in stock at the moment of the data extraction
 type – a numerical code for product type
 brands.csv
-
 short – the 3-character code by which the brand can be identified in the first 3 characters of products.sku
 long – brand name
-
-
-Project Overview
-
-The study focuses on understanding how monthly revenue and the average discount rate influenced sales performance during 2017–2018. Additionally, it explores the relationship between discounts, seasonal shifts, special events, product categories, and various pricing and quantity dynamics.
-
-Objective
-
-The primary goal is to assess the impact of Eniac's discounting strategy on sales performance, product categorization, and seasonal variations. Insights from this analysis aim to guide optimization of discount distribution across product categories and months.
-
-Data Source
-
-The dataset was sourced from Eniac's discount database for the period 2017–2018. Rigorous data cleaning was performed to address issues including a corrupted database, incongruent or duplicate data, irregular numeric formats (e.g., double-dot numbers), and general data quality concerns.
 
 Technologies Used
 Programming:
