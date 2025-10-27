@@ -64,8 +64,6 @@ Recommendations
 
 Maintain discounts within a reasonable range to preserve profit margins.
 
+Improve data collection processes and extend observation periods to better capture seasonal trends.
+
 Standardize product categorization and implement duplicate checks for cleaner, more reliable analysis in the future.
-
-The highest revenue comes from products sold with discounts between 15% and 25%
-
-Very high discounts on cheap products do not boost the revenue
