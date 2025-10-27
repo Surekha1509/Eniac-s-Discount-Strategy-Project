@@ -5,6 +5,7 @@ This project analyzes the discount strategy applied by ENIAC between January 201
 Data Sceince Bootcamp WBS Coding Berlin 
 
 on date : 27-10.2025
+Team work by https://github.com/afol and https://github.com/rudrapra084
 
 Final Project PPT : https://docs.google.com/presentation/d/149s6PaCtws4OgAmovATNkznon7Jc5itWTVfBsU-4CaU/edit?usp=drive_link
 
