@@ -6,6 +6,8 @@ Data Sceince Bootcamp WBS Coding Berlin
 
 on date : 27-10.2025
 
+Final Project PPT : https://docs.google.com/presentation/d/149s6PaCtws4OgAmovATNkznon7Jc5itWTVfBsU-4CaU/edit?usp=drive_link
+
  Dataset & Sources https://drive.google.com/drive/folders/13OGwxS4tp-HjQRhCtpPfhJDnipnb90dm?usp=sharing
 
 Data description
@@ -43,16 +45,12 @@ short – the 3-character code by which the brand can be identified in the first
 long – brand name
 
 Tools Used:
-
 Python
 
-Libraries:
-Seaborn
-Pandas
+Libraries: Seaborn , Pandas
 
-Environment:
+Environment: google Colab
 
-Google Colab
 
 Analysis and Key Findings
 
